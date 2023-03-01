@@ -1,7 +1,6 @@
 {"sites": [
 {"key":"csp_Kunyu77","name":"凯专用,勿传播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xBPQ_动漫专用","name":"动漫专用","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/动漫专用.json"},
-//{"key":"Gitcafe","name":"小纸条(搜)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"cd1e671fa92841dba249701e4673ba24","jar":"https://yangguokai.github.io/a/1028唐僧4.jar;md5;7ded374bc377a7aaadfea09c3bcae2a0"},
 {"key":"FindZY","name":"找资源(搜)","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
 {"key":"AliPS","name":"盘搜(搜)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
 {"key":"Upyunso","name":"UP云(搜)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
@@ -12,8 +11,6 @@
 {"key":"新浪资源","name":"新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"hnzy","name":"红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"Tutu_spider","name":"图图|SP","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://124.248.66.89:7788/","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/qj.jar;md5;4F2D69DE1285EFA0A0E72C038DE026E2"},
-//{"key":"csp_AppTT","name":"图图1|SP","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
-//{"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 {"key":"Lib","name":"Libvio|SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Ddys","name":"低端|SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6","jar":"https://yangguokai.github.io/jar/唐0111.jar;md5;3835a60781cf559924009150c490166e"},
