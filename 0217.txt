@@ -21,7 +21,6 @@
 {"key":"csp_fantuan","name":"饭团|SP","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {"key":"csp_Bttoo","name":"两个BT|SP","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_神马影视","name":"神马|SP","type":3,"api":"csp_Smdyy","filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_Dy1010","name":"双十|SP","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"BuLei","name":"布雷|SP","type":3,"api":"BuLei","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_panghu","name":"胖虎|SP","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lezhu","name":"乐猪|SP","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
