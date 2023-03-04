@@ -49,6 +49,7 @@
 {"key":"360_spider","name":"360|解析","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1}, 
 {"key":"csp_xml_小猫咪","name":"猫咪|解析","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","综合频道"]},
 {"key":"csp_xpath_112","name":"工人影视|XP","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/a/工人影视.json"},
+{"key":"csp_XBiu口袋影院","name": "口袋影院|XBiu","type": 3,"api": "csp_XBiu","ext": {"homeUrl": "http://www.koudaitv.com/type/{cateId}-{catePg}.html","playlist":{"sort":1}}},
 {"key":"csp_biubiu_555电影","name":"555电影|XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/555电影.txt","jar":"https://yangguokai.github.io/a/1124猫.jar;md5;1e482db250882f2b2e0da804f59bb557"},
 {"key":"csp_biubiu_饭团","name":"饭团影院|XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://yangguokai.github.io/m/饭团.json","jar":"https://yangguokai.github.io/a/1124猫.jar;md5;1e482db250882f2b2e0da804f59bb557"},
 {"key":"csp_biubiu_AByy","name":"AB影院|XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/AB影院.txt","jar":"https://yangguokai.github.io/a/1124猫.jar;md5;1e482db250882f2b2e0da804f59bb557"},
